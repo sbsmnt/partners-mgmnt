@@ -1,0 +1,1 @@
+export { Tops as default } from './Tops';

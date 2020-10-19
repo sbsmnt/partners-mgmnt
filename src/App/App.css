@@ -1,0 +1,39 @@
+a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.sv-right{ 
+    float: right 
+}
+
+.sv-m { width: 100% }
+.sv-ninja { visibility: hidden }
+
+.sv-container-pd{ margin-top: 3% }
+
+.sv-table-container {
+    padding: 2rem;
+}
+
+::-webkit-scrollbar-track{
+	border-radius: 10px;
+    background-color: rgba(0,0,0,0.01);
+}
+::-webkit-scrollbar{
+	width: 6px;
+	height: 6px;
+    background-color: rgba(0,0,0,0.01);
+}
+::-webkit-scrollbar-thumb{
+	border-radius: 10px;
+    background-color: #666;
+}
+
+.sv-alert{
+    position: fixed;
+    top: 5.5rem;
+    right: 7rem;
+    z-index: 99999;
+}

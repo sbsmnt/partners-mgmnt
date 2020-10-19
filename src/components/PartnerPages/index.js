@@ -1,0 +1,1 @@
+export { PartnerPages as default} from './PartnerPages';
